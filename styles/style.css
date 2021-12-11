@@ -235,6 +235,10 @@ html {
   overflow: hidden;
 }
 
+h1 {
+  font-family: "Goudy Bookletter 1911", serif;
+}
+
 body {
   background-color: peachpuff;
 }
